@@ -8,7 +8,7 @@ Select a section below to explore the detailed project documentation. Each secti
 ### 1. Requirements Engineering
 Understanding the system's needs and quality standards.
 * [Functional Requirements](./requirements/functional.md) - Core system features and operations.
-* [Non-Functional Requirements](./requirements/non_functional.md) - Performance, security, and usability benchmarks.
+* [Non-Functional Requirements](./requirements/Non_functional.md) - Performance, security, and usability benchmarks.
 
 ### 2. System Modeling & Design
 Architectural representations of the system structure and behavior.
