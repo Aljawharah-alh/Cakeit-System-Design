@@ -11,3 +11,6 @@ This diagram represents the dynamic behavior of the system, showing how objects 
 2. **Validation:** The system validates the availability of selected ingredients.
 3. **Transaction:** Interaction with the payment API to authorize the order.
 4. **Confirmation:** The database updates the order status and notifies the customer.
+
+
+ [⬅ Back to Main Page](../README.md)
